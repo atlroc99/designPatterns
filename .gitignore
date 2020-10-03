@@ -1,2 +1,7 @@
+/target
+/build
+/lib
+/out
+
 *.iml
 .idea/
