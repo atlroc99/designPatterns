@@ -1,0 +1,6 @@
+Path to change font color: Preferences | Editor | Color Scheme | General
+
+ Note:
+ 1. The constructor is private -> so you cannot create a class of Captain outside this class.
+ 2. Private Constructor also ensures that this class cannot be extended. So, the subclasses cannot misuse the concept
+
