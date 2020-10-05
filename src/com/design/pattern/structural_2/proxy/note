@@ -1,0 +1,7 @@
+A proxy
+    is basically a substitute for an intended object. Access to the original object is not
+    always possible due to many factors. For example, it is expensive to create, it is in need
+    of being secured, it resides in a remote location, and so forth. The proxy design pattern
+    helps us in similar contexts. When a client deals with a proxy object, it assumes that it
+    is talking to the actual object. So, in this pattern, you may want to use a class that can
+    perform as an interface to something else.
