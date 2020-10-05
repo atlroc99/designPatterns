@@ -1,4 +1,4 @@
-package com.design.pattern.structural_2.proxy;
+package com.design.pattern.structural_2.proxy.simpleProxy;
 
 public class ProxyMain {
     public static void main(String[] args) {

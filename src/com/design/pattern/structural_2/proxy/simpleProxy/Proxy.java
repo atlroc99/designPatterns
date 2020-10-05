@@ -1,4 +1,4 @@
-package com.design.pattern.structural_2.proxy;
+package com.design.pattern.structural_2.proxy.simpleProxy;
 
 import java.util.Objects;
 

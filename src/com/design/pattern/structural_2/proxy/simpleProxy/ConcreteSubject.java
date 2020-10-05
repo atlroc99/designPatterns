@@ -1,4 +1,4 @@
-package com.design.pattern.structural_2.proxy;
+package com.design.pattern.structural_2.proxy.simpleProxy;
 
 public class ConcreteSubject extends Subject{
     @Override
